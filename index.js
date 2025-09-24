@@ -6,7 +6,7 @@ class heroiAventura {
     }
 
     atacar(){
-        let ataque
+        let ataque;
 
         switch (this.tipo) {
         case "mago":
